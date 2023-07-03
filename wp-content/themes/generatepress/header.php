@@ -12,6 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
+	<meta name="google-site-verification" content="Y7UeXX5PToikUmIP5xMeNh0JmOuzvIyqRrC79FJX2eQ" />
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<?php wp_head(); ?>
 </head>
